@@ -102,11 +102,12 @@ body, html {
     </div>
 </body>
 </html>
-'''
+```
 ## OUTPUT:
 
 
-<img width="1920" height="1080" alt="image2 jpg" src="https://github.com/user-attachments/assets/a01f451f-1aca-4941-8848-eb675dddfe08" />
+<img width="1920" height="1080" alt="image2 jpg" src="https://github.com/user-attachments/assets/caecb04d-0155-40c1-b861-78e7184917e6" />
+
 
 
 
