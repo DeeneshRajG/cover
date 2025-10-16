@@ -104,7 +104,8 @@ body, html {
 </html>
 
 ## OUTPUT:
-C:\Users\deene\OneDrive\Desktop\exp6\cover\Screenshot 2025-10-16 083513.png
+<img width="1920" height="1080" alt="Screenshot 2025-10-16 083513" src="https://github.com/user-attachments/assets/0a53fad7-7e8b-4fbf-929d-cab1730411d5" />
+
 
 
 ## RESULT:
