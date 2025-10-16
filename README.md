@@ -104,7 +104,7 @@ body, html {
 </html>
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-16 083513.png>)
+C:\Users\deene\OneDrive\Desktop\exp6\cover\Screenshot 2025-10-16 083513.png
 
 
 ## RESULT:
